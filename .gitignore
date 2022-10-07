@@ -1,0 +1,14 @@
+.DS_Store
+/node_modules/
+/lib/
+.bsb.lock
+.merlin
+
+# Yarn Berry configs
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
