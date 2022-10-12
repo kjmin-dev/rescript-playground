@@ -3,6 +3,7 @@
 /lib/
 .bsb.lock
 .merlin
+*.bs.js
 
 # Yarn Berry configs
 .yarn/*
